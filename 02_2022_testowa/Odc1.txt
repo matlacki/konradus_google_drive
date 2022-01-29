@@ -1,6 +1,6 @@
 Cześć,
 Test
-IMGIMG Odc1_Img9.jpg
+IMGIMG image.jpg
 
 Test
 
